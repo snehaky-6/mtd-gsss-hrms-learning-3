@@ -3,3 +3,4 @@ HRMS - Human Resource Management System
 Features
     - emp-service
     - payroll-service
+    - leave-service
